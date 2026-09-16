@@ -41,4 +41,4 @@ You can find my most recent version of my CV at: [https://an-andrey.github.io/cv
 
 * **Email:** [andrey.ambartsumov@mail.mcgill.ca](mailto:andrey.ambartsumov@mail.mcgill.ca)
 * **LinkedIn:** [linkedin.com/in/andrey-ambartsumov](https://www.linkedin.com)
-* **Website:** [degreeviz.com](https://degreeviz.com)
+* **Website:** [https://an-andrey.github.io](https://an-andrey.github.io)
