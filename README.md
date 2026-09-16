@@ -1,6 +1,10 @@
 # Andrey Ambartsumov
 
-I study Honours Statistics and Computer Science at McGill University and work on machine learning research. My interests focus on graph neural networks, representation learning, and building reliable data-intensive systems.
+I'm a Honours Statistics and Computer Science student @ McGill, I'm working on becoming a Machine Learning Reseracher, specifically focusing on distributed ML.
+I've been able to get valuable research experience within Mila, and industry experience at TD Insurance.
+
+You can find my most recent version of my CV at: [https://an-andrey.github.io/cv-json/](https://an-andrey.github.io/cv-json/) 
+
 ---
 
 ### Key Projects
